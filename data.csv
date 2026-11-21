@@ -1,0 +1,13 @@
+password,strength
+abc,Weak
+123456,Weak
+hello,Weak
+abc123,Weak
+hello123,Medium
+India@123,Medium
+Test@123,Medium
+Python@123,Medium
+Hello@123,Strong
+P@ssw0rd#2025,Strong
+R9!xT4#pL8,Strong
+Xy#89Lm!2Q,Strong
